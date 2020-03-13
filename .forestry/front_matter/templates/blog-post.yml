@@ -8,9 +8,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: boolean
-  name: toc
-  label: toc
 - type: text
   name: images
   label: images
