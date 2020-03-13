@@ -1,5 +1,6 @@
 +++
 date = 2020-03-13T19:00:00Z
+draft = true
 images = ""
 tags = []
 title = "Corona-hoarding"
