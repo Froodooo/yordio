@@ -3,6 +3,8 @@ date = ""
 images = ""
 tags = []
 title = "Like"
+[menu.main]
+weight = 2
 
 +++
 # Podcasts
