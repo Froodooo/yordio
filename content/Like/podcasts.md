@@ -3,6 +3,8 @@ date = ""
 images = ""
 tags = ["podcast"]
 title = "Podcasts"
+[menu.main]
+weight = 2
 
 +++
 [**Complete Developer Podcast**](https://completedeveloperpodcast.com/)  
