@@ -4,6 +4,7 @@ images = ""
 tags = ["podcast"]
 title = "Podcasts"
 [menu.main]
+name = "Like"
 weight = 2
 
 +++
