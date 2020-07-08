@@ -19,4 +19,4 @@ Welnu, dat toekomstscenario bespreken ze dus. Want ja, het Nederlandse medialand
 
 ## Songs
 
-* [I'm Not Made by Design](https://open.spotify.com/track/263jAWjIxXBdHuh8xlFMLY?si=nue5hGF9QXSOc4MqFkUgCA) (Nothing But Thieves)
+See [my favorite songs on Spotify](https://open.spotify.com/playlist/5e8XEYE7uOBsMfK33QAh0O?si=kRPANUeYRHSkLSXqUPSLfw).
