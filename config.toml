@@ -14,6 +14,10 @@ title = "Yordi Verkroost"
 logoHomeLink = "/"
 logoText = "yordI/O"
 [[menu.main]]
+name = "Tweets"
+url = "https://www.twitter.com/yordiverkroost"
+weight = 2
+[[menu.main]]
 identifier = "blog"
 name = "Blog"
 url = "/posts"
