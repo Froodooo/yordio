@@ -20,6 +20,9 @@ In het vliegtuig terug van New York bedacht Alexander Klöpping dat het misschie
 
 Welnu, dat toekomstscenario bespreken ze dus. Want ja, het Nederlandse medialandschap wordt steeds Amerikaanser. Miljoenen Nederlanders beginnen hun dag op Facebook. Steeds meer van het online advertentiegeld (denk aan mobiel) gaat naar Google en Facebook. En nu zetten die bedrijven, plus Twitter, ook nog de eerste stappen richting televisie. Wat gaan we daar in Nederland van merken? [Lees hier meer over de mediapodcast](https://pfauth.com/nieuwe-media/podcast/).
 
+[**The Tim Ferriss Show**](https://tim.blog/podcast/) 🇬🇧**  
+**Tim Ferriss is a self-experimenter and bestselling author, best known for The 4-Hour Workweek, which has been translated into 40+ languages. Newsweek calls him "the world's best human guinea pig," and The New York Times calls him "a cross between Jack Welch and a Buddhist monk." In this show, he deconstructs world-class performers from eclectic areas (investing, chess, pro sports, etc.), digging deep to find the tools, tactics, and tricks that listeners can use.
+
 ## Songs
 
 See [my favorite songs on Spotify](https://open.spotify.com/playlist/5e8XEYE7uOBsMfK33QAh0O?si=kRPANUeYRHSkLSXqUPSLfw).
