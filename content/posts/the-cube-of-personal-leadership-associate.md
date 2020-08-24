@@ -1,5 +1,5 @@
 +++
-date = 2020-08-01T19:15:00Z
+date = 2020-08-24T19:15:00Z
 images = ""
 tags = ["personal-leadership", "cube"]
 title = "The CUBE of Personal Leadership: Associate"
