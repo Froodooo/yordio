@@ -2,7 +2,7 @@
 date = 2020-08-24T19:15:00Z
 images = ""
 tags = ["personal-leadership", "cube"]
-title = "The CUBE of Personal Leadership: Associate"
+title = "The CUBE of Personal Leadership: (Don't) Associate"
 
 +++
 ![](/uploads/cube_associate.png)
