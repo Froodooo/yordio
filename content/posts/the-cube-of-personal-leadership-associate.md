@@ -2,7 +2,7 @@
 date = 2020-08-24T19:15:00Z
 images = ""
 tags = ["personal-leadership", "cube"]
-title = "The CUBE of Personal Leadership: (Don't) Associate"
+title = "The CUBE of Personal Leadership: Listen"
 
 +++
 Imagine that you meet with one of your friends after he came back from holiday. He's probably very eager to tell you all about it, which you know by the look on his face. You might not feel the same, but you know it's social to ask him about it. So naturally, the first question you ask is: "How was your holiday?". Your friend replies: "Oh man, it was so exciting! Already on the first day, we went surfing at one of the most beautiful beaches I have...". At this moment, your mind starts racing and associating, remembering that time when you were on holiday and went surfing. And so, already before your friend had a chance to tell the whole story, you hijack the conversation by saying: "Ah yes, I did that as well when I was in...".
