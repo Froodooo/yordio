@@ -16,6 +16,7 @@ fields:
   label: tags
 pages:
 - content/like.md
+- content/posts/het-begin.md
 - content/posts/the-cube-of-personal-leadership-associate.md
 - content/posts/the-cube-of-personal-leadership-empathy.md
 - content/posts/the-cube-of-personal-leadership-grow.md
